@@ -22,6 +22,7 @@
 getuid: 1
 writev: 1
 sendto: 1
+madvise: 1
 mmap: arg2 in ~PROT_EXEC || arg2 in ~PROT_WRITE
 read: 1
 mprotect: arg2 in ~PROT_EXEC || arg2 in ~PROT_WRITE
