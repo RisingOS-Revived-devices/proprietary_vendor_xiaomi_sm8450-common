@@ -721,6 +721,7 @@ PRODUCT_PACKAGES += \
     vendor.qti.memory.pasrmanager@1.1 \
     vendor.qti.qspmhal-V1-ndk \
     vendor.qti.qspmhal-impl \
+    vendor.qti.qspmhal@1.0 \
     com.qualcomm.qti.dpm.api@1.0 \
     lib-imsvideocodec \
     lib-imsvt \
