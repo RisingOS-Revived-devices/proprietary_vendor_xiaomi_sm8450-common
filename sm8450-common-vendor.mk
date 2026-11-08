@@ -796,6 +796,7 @@ PRODUCT_PACKAGES += \
     uimgbalibrary \
     uimgbamanagerlibrary \
     uimservicelibrary \
+    camerax-vendor-extensions \
     com.android.hotwordenrollment.common.util \
     com.qti.dpmframework \
     dpmapi \
